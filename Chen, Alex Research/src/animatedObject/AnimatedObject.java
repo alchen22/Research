@@ -3,7 +3,7 @@ package animatedObject;
 import processing.core.PApplet;
 
 public class AnimatedObject extends PApplet {
-	
+	//test
 	int radius = 50;
 	float xpos, ypos;
 	float red = random(0, 256);
