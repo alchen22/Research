@@ -12,7 +12,7 @@ public class Compiler
 		fillDataSet();
 		dataSet = new DataSet(DataSet);
 		System.out.println(dataSet.getUniqueValues("studentField"));
-		filteredPrinter("ethnicity", "studentField", 0.0);
+		filteredPrinter("gender", "studentField", 0.0);
 //		masterPrinter("gender", 0.2);
 	}
 
